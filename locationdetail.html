@@ -1,0 +1,253 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>RockyRoll Resume</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="RockyRoll Resume Website" />
+	<meta name="keywords" content="RockyRoll, Resume" />
+  	<!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+	<link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+        <script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	<script src="js/xlsx.full.min.js"></script>
+	<script type="text/javascript" src="js/FileSaver.js"></script>
+	<script type="text/javascript" src="js/Export2Excel.js"></script>
+	<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=gVNM7VnRHRcZkOLZTeZW6oEf"></script>
+	</head>
+	<body>
+
+	<div id="fh5co-started" class="fh5co-bg-dark">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>工作站</h2>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+	<div id="fh5co-about" class="animate-box">
+		<div class="container">
+			<div class="row">
+
+			</div>
+			<div class="row">
+				<div class="col-md-4">
+					<ul>
+						<li><h3>批量地址查询</h3></li>
+						<li><h3>批量快递查询</h3></li>
+					</ul>
+					<hr>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-lg-12 col-sm-12 col-sm-12 text-center fh5co-heading">
+					<h2>批量地址查询</h2>
+				</div>
+				<div class="col-lg-12 col-sm-12 col-sm-12  fh5co-heading">
+					<ul>
+						<li>
+							1.上传要处理的Excel
+							<input type="file" id="upfile"/>
+						</li>
+						<li>2.等待处理完毕，如果有多处undefined，重新上传文件</li>
+						<li>
+							3.导出处理完毕的Excel<br>
+							<input type="submit" class="btn-group-sm" value="导出Excel" onclick="doit();">
+						</li>
+					</ul>
+				</div>
+
+				<div class="col-lg-10 col-md-10 col-sm-12">
+					<div id="out"></div>
+				</div>
+				<div class="col-lg-2 col-md-2 col-sm-12">
+					<div id="baidumap" style="position: absolute;
+						top: 50px;
+						width: 90%;
+						height: 90%;
+						border: 1px solid gray;
+						overflow:hidden;">
+					</div>
+				</div>
+			</div>
+
+			<hr>
+			<div class="row">
+				<div class="col-lg-12 col-sm-12 col-sm-12 text-center fh5co-heading">
+					<h2>批量快递查询</h2>
+				</div>
+				<div class="col-lg-12 col-sm-12 col-sm-12  fh5co-heading">
+					不要再看了没有的，吃了饭再做！
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Easy PieChart -->
+	<script src="js/jquery.easypiechart.min.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+
+	<script type="text/javascript">
+        //查询地址
+        var map = new BMap.Map("baidumap");
+        map.centerAndZoom("武汉", 12);
+        map.enableScrollWheelZoom();    //启用滚轮放大缩小，默认禁用
+        map.enableContinuousZoom();    //启用地图惯性拖拽，默认禁用
+
+        map.addControl(new BMap.NavigationControl());  //添加默认缩放平移控件
+        map.addControl(new BMap.OverviewMapControl()); //添加默认缩略地图控件
+        map.addControl(new BMap.OverviewMapControl({ isOpen: true, anchor: BMAP_ANCHOR_BOTTOM_RIGHT }));   //右下角，打开
+
+        var detailAdressArr=[];
+        function searchByStationName(workplace,idStr) {
+            var keyword = workplace;
+
+            var options = {
+                onSearchComplete: function(results){
+                    // 判断状态是否正确
+                    if (localSearch.getStatus() == BMAP_STATUS_SUCCESS){
+                        var theFirstAdress=results["Br"][0];
+
+                        var detailAdress=theFirstAdress.province+theFirstAdress.city+theFirstAdress.address;
+
+                        if(typeof (theFirstAdress) == "undefined"){
+							detailAdress="<span style='color: red;'>这个找不到</span>";
+						}
+                        document.getElementById(idStr).innerHTML = detailAdress;
+                    }
+                },
+                renderOptions:{map: map}
+            };
+            var localSearch = new BMap.LocalSearch(map,options);
+            localSearch.search(keyword);
+        }
+	</script>
+	</body>
+	<script>
+        //数组去重
+        Array.prototype.unique = function(){
+            var res = [];
+            var json = {};
+            for(var i = 0; i < this.length; i++){
+                if(!json[this[i]]){
+                    res.push(this[i]);
+                    json[this[i]] = 1;
+                }
+            }
+            return res;
+        }
+
+        var X = XLSX;
+        var file = document.getElementById('upfile');
+        var out = document.getElementById('out');
+        var output = '';
+
+        function handleFile(e) {
+            var files = e.target.files;
+            var i,f;
+            for (i = 0, f = files[i]; i != files.length; ++i) {
+                var reader = new FileReader();
+                var name = f.name;
+                reader.onload = function(e) {
+                    var data = e.target.result;
+                    var workbook = XLSX.read(data, {type: 'binary'});
+
+                    /* DO SOMETHING WITH workbook HERE */
+                    var result = '';
+
+                    var tmp = X.utils.sheet_to_formulae(workbook.Sheets[workbook.SheetNames[0]]);
+                    var maxRowCount = 0;//记录行数（也就是excel中数据最多那一列所占的行数）
+                    var tmpRowCount = 0;//临时行数（为了以下计算出最大行数，即maxRowCount）
+                    var arrayTitle = [];//记录字母（也就是excel中的列）
+                    var obj = {};
+                    for(var i=0;i<tmp.length;i++){
+                        tmpRowCount = parseInt(tmp[i].split('=')[0].substr(1,tmp[i].split('=')[0].length-1));
+                        if(tmpRowCount >= maxRowCount){
+                            maxRowCount = tmpRowCount;
+                        }
+                        obj[tmp[i].split('=')[0]]=tmp[i].split('=')[1];
+                        arrayTitle.push(tmp[i].split('=')[0].charAt(0));
+                    }
+                    arrayTitle = arrayTitle.unique();//数组去重
+
+                    result += '<table id="exporttable" class="productInfo" style="border-collapse:collapse; border-spacing:0;">';
+                    for(var i=1;i<=maxRowCount;i++) {
+                        result += '<tr>';
+                        var workplace="";
+                        for(var j=0;j<arrayTitle.length;j++) {
+
+                            // if(obj.hasOwnProperty(arrayTitle[j]+i))
+                            //判断第二列
+                            if(i>1 && j==1){
+                                workplace=obj[arrayTitle[j] + i].replace('\'','');
+                                result += '<td>'+workplace+'</td>'; //数据
+                                //第三列
+                            }else if(i>1 && j==2){
+                                var idStr=i+"_"+j;
+                                result += '<td id="'+idStr+'">'+searchByStationName(workplace,idStr)+'</td>'; //数据
+                                // result += '<td>222</td>'; //数据
+                            }else{
+                                result += '<td>'+obj[arrayTitle[j] + i].replace('\'','')+'</td>'; //数据
+                            }
+                        }
+                        result += '</tr>';
+                    }
+                    result += '</table>';
+                    out.innerHTML = result;
+                };
+                reader.readAsBinaryString(f);
+            }
+        }
+        file.addEventListener('change', handleFile, false);
+
+        //导出表格
+        function doit() {
+            export_table_to_excel('exporttable','testfile');
+        }
+	</script>
+</html>
+
