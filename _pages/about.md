@@ -49,13 +49,13 @@ My research interest includes graph mining and analysis <a href='https://scholar
 
 ## Conference
 
-- Hypercore maintenance in dynamic hypergraphs. Q Luo, D Yu, Z Cai, X Lin, X Cheng. 2021 IEEE 37th International Conference on Data Engineering (ICDE), 2051-2056.
-- Distributed Algorithm for Truss Maintenance in Dynamic Graphs. Q Luo, D Yu, H Sheng, J Yu, X Cheng. International Conference on Parallel and Distributed Computing: Applications and Technologies, 2020, 104-115.
-- Distributed core decomposition in probabilistic graphs. Q Luo, D Yu, F Li, Z Dou, Z Cai, J Yu, X Cheng. International Conference on Computational Data and Social Networks, 2019, 16-32.
+- Hypercore maintenance in dynamic hypergraphs. **Q Luo**, D Yu, Z Cai, X Lin, X Cheng. 2021 IEEE 37th International Conference on Data Engineering (ICDE), 2051-2056.
+- Distributed Algorithm for Truss Maintenance in Dynamic Graphs. **Q Luo**, D Yu, H Sheng, J Yu, X Cheng. International Conference on Parallel and Distributed Computing: Applications and Technologies, 2020, 104-115.
+- Distributed core decomposition in probabilistic graphs. **Q Luo**, D Yu, F Li, Z Dou, Z Cai, J Yu, X Cheng. International Conference on Computational Data and Social Networks, 2019, 16-32.
 
 ## Journal
 
-- Core Decomposition and Maintenance in Bipartite Graphs. D Yu, L Zhang, Q Luo, X Cheng, Z Cai. Tsinghua Science and Technology, 2022, 28 (2), 292-309.
+- Core Decomposition and Maintenance in Bipartite Graphs. D Yu, L Zhang, **Q Luo^{*}**, X Cheng, Z Cai. Tsinghua Science and Technology, 2022, 28 (2), 292-309.
 - Toward maintenance of hypercores in large-scale dynamic hypergraphs. Q Luo, D Yu, Z Cai, X Lin, G Wang, X Cheng. The VLDB Journal, 2022, 1-18.
 - A survey of structural representation learning for social networks. Q Luo, D Yu, AMVV Sai, Z Cai, X Cheng. Neurocomputing, 2022, 496, 56-71.
 - Exploring Truss Maintenance in Fully Dynamic Graphs: A Mixed Structure-Based Approach. Q Luo, D Yu, X Cheng, H Sheng, W Lv. IEEE Transactions on Computers, 2022.
