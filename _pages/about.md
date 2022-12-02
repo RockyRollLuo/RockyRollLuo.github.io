@@ -20,7 +20,7 @@ redirect_from:
 Qi Luo is a researcher in HKAIFT. 
 <!-- and a postdoc of City University of Hongkong -->
 
-My research interest includes graph mining and analysis. You can see my google scholar page <a href='https://scholar.google.com/citations?user=glQeJ0sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes graph mining and analysis <a href='https://scholar.google.com/citations?user=glQeJ0sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 <!-- # 🔥 News
@@ -47,13 +47,13 @@ My research interest includes graph mining and analysis. You can see my google s
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-## Conference papers
+## Conference
 
 - Hypercore maintenance in dynamic hypergraphs. Q Luo, D Yu, Z Cai, X Lin, X Cheng. 2021 IEEE 37th International Conference on Data Engineering (ICDE), 2051-2056.
 - Distributed Algorithm for Truss Maintenance in Dynamic Graphs. Q Luo, D Yu, H Sheng, J Yu, X Cheng. International Conference on Parallel and Distributed Computing: Applications and Technologies, 2020, 104-115.
 - Distributed core decomposition in probabilistic graphs. Q Luo, D Yu, F Li, Z Dou, Z Cai, J Yu, X Cheng. International Conference on Computational Data and Social Networks, 2019, 16-32.
 
-## Journal Papers
+## Journal
 
 - Core Decomposition and Maintenance in Bipartite Graphs. D Yu, L Zhang, Q Luo, X Cheng, Z Cai. Tsinghua Science and Technology, 2022, 28 (2), 292-309.
 - Toward maintenance of hypercores in large-scale dynamic hypergraphs. Q Luo, D Yu, Z Cai, X Lin, G Wang, X Cheng. The VLDB Journal, 2022, 1-18.
