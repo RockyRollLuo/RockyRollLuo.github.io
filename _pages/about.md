@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qi Luo is a researcher in HKAIFT and a postdoc of City University of Hongkong
+Qi Luo is a researcher in HKAIFT. 
+<!-- and a postdoc of City University of Hongkong -->
 
 My research interest includes graph mining and analysis. You can see my google scholar page <a href='https://scholar.google.com/citations?user=glQeJ0sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
@@ -63,7 +64,7 @@ My research interest includes graph mining and analysis. You can see my google s
 - Distributed Core Decomposition in Probabilistic Graphs. Q Luo, D Yu, F Li, X Cheng, Z Cai, J Yu. Asia-Pacific Journal of Operational Research, 2021, 38 (05), 2140008.
 - Core-GAE: Toward Generation of IoT Networks. Q Luo, D Yu, Y Zheng, H Sheng, X Cheng. IEEE Internet of Things Journal, 2021, 9 (12), 9241-9248.
 - Fast core maintenance in dynamic graphs. D Yu, N Wang, Q Luo, F Li, J Yu, X Cheng, Z Cai. IEEE Transactions on Computational Social Systems, 2021.
-- Batch processing for truss maintenance in large dynamic graphs. Q Luo, D Yu, X Cheng, Z Cai, J Yu, W Lv. IEEE Transactions on Computational Social Systems, 2020 7 (6), 1435-1446.
+- Batch processing for truss maintenance in large dynamic graphs. Q Luo, D Yu, X Cheng, Z Cai, J Yu, W Lv. IEEE Transactions on Computational Social Systems, 2020, 7 (6), 1435-1446.
 - Fast skyline community search in multi-valued networks. D Yu, L Zhang, Q Luo, X Cheng, J Yu, Z Cai. Big Data Mining and Analytics, 2020, 3 (3), 171-180.
 
 
@@ -81,9 +82,9 @@ My research interest includes graph mining and analysis. You can see my google s
 - *2015.08 - 2018.06*, Master Degree, Shandong University, Jinan. 
 - *2011.08 - 2015.06*, Bachelar Degree, Northestern University, Qinghuangdao. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2017.11 - 2018.02*, [JD](https://www.jd.com/), China.
