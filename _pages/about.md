@@ -54,17 +54,18 @@ My research interest includes graph mining and analysis <a href='https://scholar
   *International Conference on Data Engineering (ICDE), 2051-2056*
   
 - **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**     
-  Qi Luo, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng
+  > Qi Luo, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng     
   *International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT), 2020, 104-115*
   
 - **Distributed core decomposition in probabilistic graphs**
-
-  Qi Luo, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng
+  > Qi Luo, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng     
   *International Conference on Computational Data and Social Networks (CSoNet), 2019, 16-32*
 
 ## Journal
 
-- Core Decomposition and Maintenance in Bipartite Graphs. D Yu, L Zhang, **Q Luo**, X Cheng, Z Cai. Tsinghua Science and Technology, 2022, 28 (2), 292-309.
+- **Core Decomposition and Maintenance in Bipartite Graphs**     
+  > D Yu, L Zhang, **Q Luo**, X Cheng, Z Cai     
+  > Tsinghua Science and Technology, 2022, 28 (2), 292-309.
 - Toward maintenance of hypercores in large-scale dynamic hypergraphs. **Q Luo**, D Yu, Z Cai, X Lin, G Wang, X Cheng. The VLDB Journal, 2022, 1-18.
 - A survey of structural representation learning for social networks. **Q Luo**, D Yu, AMVV Sai, Z Cai, X Cheng. Neurocomputing, 2022, 496, 56-71.
 - Exploring Truss Maintenance in Fully Dynamic Graphs: A Mixed Structure-Based Approach. **Q Luo**, D Yu, X Cheng, H Sheng, W Lv. IEEE Transactions on Computers, 2022.
