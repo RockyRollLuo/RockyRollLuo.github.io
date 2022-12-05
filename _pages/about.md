@@ -55,8 +55,10 @@ My research interest includes graph mining and analysis <a href='https://scholar
 - **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**
   - Qi Luo, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng
   - > International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT), 2020, 104-115
-- **Distributed core decomposition in probabilistic graphs**
+  
+### Distributed core decomposition in probabilistic graphs
   Qi Luo, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng
+  
   International Conference on Computational Data and Social Networks (CSoNet), 2019, 16-32
 
 ## Journal
