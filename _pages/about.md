@@ -49,9 +49,15 @@ My research interest includes graph mining and analysis <a href='https://scholar
 
 ## Conference
 
-- Hypercore maintenance in dynamic hypergraphs. **Q Luo**, D Yu, Z Cai, X Lin, X Cheng. 2021 IEEE 37th International Conference on Data Engineering (ICDE), 2051-2056.
-- Distributed Algorithm for Truss Maintenance in Dynamic Graphs. **Q Luo**, D Yu, H Sheng, J Yu, X Cheng. International Conference on Parallel and Distributed Computing: Applications and Technologies, 2020, 104-115.
-- Distributed core decomposition in probabilistic graphs. **Q Luo**, D Yu, F Li, Z Dou, Z Cai, J Yu, X Cheng. International Conference on Computational Data and Social Networks, 2019, 16-32.
+- **Hypercore maintenance in dynamic hypergraphs** 
+  Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng
+  International Conference on Data Engineering (ICDE), 2051-2056
+- **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**
+  Qi Luo, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng
+  International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT), 2020, 104-115
+- **Distributed core decomposition in probabilistic graphs**
+  Qi Luo, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng
+  International Conference on Computational Data and Social Networks (CSoNet), 2019, 16-32
 
 ## Journal
 
