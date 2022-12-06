@@ -85,7 +85,7 @@ My research interest includes graph mining and analysis <a href='https://scholar
 
 - **Public-Private-Core Maintenance in Public-Private-Graphs**   
   > Dongxiao Yu, Xilian Zhang, Qi Luo, Lifang Zhang, Zhenzhen Xie, Zhipeng Cai       
-  > *Intelligent and Converged Networks, 2021, 2 (4), 306-319*
+  > *Intelligent and Converged Networks (ICN), 2021, 2 (4), 306-319*
 
 - **Distributed Core Decomposition in Probabilistic Graphs**   
   > Qi Luo, Dongxiao Yu, Feng Li, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu        
@@ -97,7 +97,7 @@ My research interest includes graph mining and analysis <a href='https://scholar
 
 - **Fast core maintenance in dynamic graphs**    
   > Dongxiao Yu, Na Wang, Qi Luo, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
-  > *IEEE Transactions on Computational Social Systems, 2021*
+  > *IEEE Transactions on Computational Social Systems (TCSS), 2021, 9 (3), 710-723*
 
 - **Batch processing for truss maintenance in large dynamic graphs**     
   > Qi Luo, Dongxiao Yu, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu, Weifeng Lv   
