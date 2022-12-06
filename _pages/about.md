@@ -51,7 +51,7 @@ My research interest includes graph mining and analysis <a href='https://scholar
 
 - **Hypercore maintenance in dynamic hypergraphs**      
   > Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng       
-  > *International Conference on Data Engineering (ICDE), 2051-2056*
+  > *International Conference on Data Engineering (ICDE), 2021, 2051-2056*
   
 - **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**     
   > Qi Luo, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng     
@@ -106,8 +106,6 @@ My research interest includes graph mining and analysis <a href='https://scholar
 - **Fast skyline community search in multi-valued networks**    
   > Dongxiao Yu, Lifang Zhang, Qi Luo, Xiuzhen Cheng, Jiguo Yu, Zhipeng Cai       
   > *Big Data Mining and Analytics, 2020, 3 (3), 171-180* 
-
-
 
 
 
