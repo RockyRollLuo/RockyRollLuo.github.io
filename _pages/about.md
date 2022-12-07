@@ -124,5 +124,6 @@ My research interest includes graph mining and analysis <a href='https://scholar
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+<!-- 
 # 💻 Internships
-- *2017.11 - 2018.02*, [JD](https://www.jd.com/), China.
+- *2017.11 - 2018.02*, [JD](https://www.jd.com/), China. -->
