@@ -20,7 +20,9 @@ redirect_from:
 Qi Luo is a researcher in HKAIFT. 
 <!-- and a postdoc of City University of Hongkong -->
 
-My research interest includes graph mining and analysis <a href='https://scholar.google.com/citations?user=glQeJ0sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+My research interest includes graph mining and analysis.
+
+<!-- <a href='https://scholar.google.com/citations?user=glQeJ0sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 
 <!-- # 🔥 News
@@ -127,4 +129,5 @@ My research interest includes graph mining and analysis <a href='https://scholar
 <!-- 
 # 💻 Internships
 - *2017.11 - 2018.02*, [JD](https://www.jd.com/), China. -->
+
 <a href="https://clustrmaps.com/site/1bs5g"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_l0oKCiKJGLKeqhQVtloRL5aEW230U8k-O1EdPY1D3c&cl=ffffff" /></a>
