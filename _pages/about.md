@@ -52,27 +52,27 @@ My research interest includes graph mining and analysis.
 
 ## Conference
 
-- **Finer-Grained Engagement in Hypergraphs**       
+- **Finer-Grained Engagement in Hypergraphs**                
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
 	International Conference on Data Engineering (ICDE), 2023 (CCF A)   
 
-- **AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**                    
+- **AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**                        
 	Zuowu Zheng, Xiaofeng Gao, Junwei Pan, <font color="#f79646">Qi Luo</font>, Guihai Chen, Dapeng Liu, Jie Jiang            
 	International Conference on Data Engineering (ICDM), 2023 (CCF B)  
 
-- **EdgeViT: Efficient Visual Modeling for Edge Computing**         
+- **EdgeViT: Efficient Visual Modeling for Edge Computing**               
 	Zekai Chen, Fangtian Zhong, <font color="#f79646">Qi Luo</font>, Xiao Zhang, Yanwei Zheng              
 	Wireless Algorithms, Systems, and Applications (WASA), 2022 (CCF C)
 
-- **Hypercore Maintenance in Dynamic Hypergraphs**  
+- **Hypercore Maintenance in Dynamic Hypergraphs**      
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng       
 	International Conference on Data Engineering (ICDE), 2021, 2051-2056  (CCF A)
   
-- **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**      
+- **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**             
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng     
 	International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT), 2020, 104-115  (Best Paper Award)
   
-- **Distributed Core Decomposition in Probabilistic Graphs**     
+- **Distributed Core Decomposition in Probabilistic Graphs**         
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng       
 	International Conference on Computational Data and Social Networks (CSoNet), 2019, 16-32 (Best Paper Award)
 
@@ -86,15 +86,15 @@ My research interest includes graph mining and analysis.
 	Dongxiao Yu, Lifang Zhang, <font color="#f79646">Qi Luo*</font>, Xiuzhen Cheng, Zhipeng Cai        
 	Tsinghua Science and Technology (TST), 2022, 28 (2), 292-309  (JCR Q2)
   
-- **Toward Maintenance of Hypercores in Large-Scale Dynamic Hypergraphs**   
+- **Toward Maintenance of Hypercores in Large-Scale Dynamic Hypergraphs**           
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Guanghui Wang, Xiuzhen Cheng      
 	The VLDB Journal (VLDBJ), 2022, 1-18  (CCF A)
 
-- **A Survey of Structural Representation Learning for Social Networks**   
+- **A Survey of Structural Representation Learning for Social Networks**       
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, AMVV Sai, Zhipeng Cai, Xiuzhen Cheng     
 	Neurocomputing, 2022, 496, 56-71  (JCR Q2, CCF C)
 
-- **Exploring Truss Maintenance in Fully Dynamic Graphs: A Mixed Structure-Based Approach**   
+- **Exploring Truss Maintenance in Fully Dynamic Graphs: A Mixed Structure-Based Approach**        
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Xiuzhen Cheng, Hao Sheng, Weifeng Lv      
 	IEEE Transactions on Computers (TC), 2022 (CCF A)
 
@@ -110,11 +110,11 @@ My research interest includes graph mining and analysis.
 	Ziwei Mo, Zhenzhen Xie, Xilian Zhang,  <font color="#f79646">Qi Luo</font>, Yanwei Zheng, Dongxiao Yu      
 	Frontiers in Enviromental Science, 2022, 1460
 
-- **Distributed Core Decomposition in Probabilistic Graphs**   
+- **Distributed Core Decomposition in Probabilistic Graphs**        
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Feng Li, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu        
 	Asia-Pacific Journal of Operational Research (APJoR), 2021, 38 (05), 2140008
 
-- **Core-GAE: Toward Generation of IoT Networks**  
+- **Core-GAE: Toward Generation of IoT Networks**          
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Yanwei Zheng, Hao Sheng, Xiuzhen Cheng        
 	IEEE Internet of Things Journal (IoT), 2021, 9 (12), 9241-9248  (JCR Q1)
 
@@ -122,7 +122,7 @@ My research interest includes graph mining and analysis.
 	Dongxiao Yu, Na Wang, <font color="#f79646">Qi Luo*</font>, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
 	IEEE Transactions on Computational Social Systems (TCSS), 2021, 9 (3), 710-723 (JCR Q2)
 
-- **Batch Processing for Truss Maintenance in Large Dynamic Graphs**     
+- **Batch Processing for Truss Maintenance in Large Dynamic Graphs**          
 	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu, Weifeng Lv   
 	IEEE Transactions on Computational Social Systems (TCSS), 2020, 7 (6), 1435-1446 (JCR Q2)
 
