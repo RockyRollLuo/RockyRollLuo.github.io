@@ -51,6 +51,10 @@ My research interest includes graph mining and analysis.
 
 ## Conference
 
+- **Finer-Grained Engagement in Hypergraphs**      
+  > Qi Luo, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin       
+  > *International Conference on Data Engineering (ICDE), 2023*
+
 - **Hypercore maintenance in dynamic hypergraphs**      
   > Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng       
   > *International Conference on Data Engineering (ICDE), 2021, 2051-2056*
@@ -65,8 +69,12 @@ My research interest includes graph mining and analysis.
 
 ## Journal
 
+- **Maximal Clique Search in Weighted Graphs**     
+  > Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
+  > *IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023*
+
 - **Core Decomposition and Maintenance in Bipartite Graphs**     
-  > Dongxiao Yu, Lifang Zhang, Qi Luo, Xiuzhen Cheng, Zhipeng Cai        
+  > Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
   > *Tsinghua Science and Technology (TST), 2022, 28 (2), 292-309*
   
 - **Toward maintenance of hypercores in large-scale dynamic hypergraphs**   
@@ -82,11 +90,11 @@ My research interest includes graph mining and analysis.
   > *IEEE Transactions on Computers (TC), 2022*
 
 - **Stable structural clustering in uncertain graphs**    
-  > Dongxiao Yu, Dongbiao Wang, Qi Luo, Yanwei Zheng, Guanghui Wang, Zhipeng Cai      
+  > Dongxiao Yu, Dongbiao Wang, Qi Luo*, Yanwei Zheng, Guanghui Wang, Zhipeng Cai      
   > *Information Sciences, 2022, 586, 596-610*
 
 - **Public-Private-Core Maintenance in Public-Private-Graphs**   
-  > Dongxiao Yu, Xilian Zhang, Qi Luo, Lifang Zhang, Zhenzhen Xie, Zhipeng Cai       
+  > Dongxiao Yu, Xilian Zhang, Qi Luo*, Lifang Zhang, Zhenzhen Xie, Zhipeng Cai       
   > *Intelligent and Converged Networks (ICN), 2021, 2 (4), 306-319*
 
 - **Distributed Core Decomposition in Probabilistic Graphs**   
@@ -98,7 +106,7 @@ My research interest includes graph mining and analysis.
   > *IEEE Internet of Things Journal (IoT), 2021, 9 (12), 9241-9248*  
 
 - **Fast core maintenance in dynamic graphs**    
-  > Dongxiao Yu, Na Wang, Qi Luo, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
+  > Dongxiao Yu, Na Wang, Qi Luo*, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
   > *IEEE Transactions on Computational Social Systems (TCSS), 2021, 9 (3), 710-723*
 
 - **Batch processing for truss maintenance in large dynamic graphs**     
@@ -106,7 +114,7 @@ My research interest includes graph mining and analysis.
   > *IEEE Transactions on Computational Social Systems (TCSS), 2020, 7 (6), 1435-1446*
 
 - **Fast skyline community search in multi-valued networks**    
-  > Dongxiao Yu, Lifang Zhang, Qi Luo, Xiuzhen Cheng, Jiguo Yu, Zhipeng Cai       
+  > Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Jiguo Yu, Zhipeng Cai       
   > *Big Data Mining and Analytics, 2020, 3 (3), 171-180* 
 
 
