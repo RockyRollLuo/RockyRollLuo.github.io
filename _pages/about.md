@@ -56,15 +56,15 @@ My research interest includes graph mining and analysis.
 	Qi Luo, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin       
 	International Conference on Data Engineering (ICDE), 2023 (CCF A)
 
-- **Hypercore maintenance in dynamic hypergraphs**
+- **Hypercore maintenance in dynamic hypergraphs**  
 	Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng       
 	International Conference on Data Engineering (ICDE), 2021, 2051-2056  (CCF A)
   
-- **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**     
+- **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**      
 	Qi Luo, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng     
 	International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT), 2020, 104-115  (Best Paper Award)
   
-- **Distributed core decomposition in probabilistic graphs**
+- **Distributed core decomposition in probabilistic graphs**  
 	Qi Luo, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng       
 	International Conference on Computational Data and Social Networks (CSoNet), 2019, 16-32 (Best Paper Award)
 
