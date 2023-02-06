@@ -53,7 +53,7 @@ My research interest includes graph mining and analysis.
 ## Conference
 
 - **Finer-Grained Engagement in Hypergraphs**                
-	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
+	Qi Luo, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
 	International Conference on Data Engineering (ICDE), 2023 (CCF A)   
 
 - **AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**                        
