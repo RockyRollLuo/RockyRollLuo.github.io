@@ -54,11 +54,11 @@ My research interest includes graph mining and analysis.
 
 - **Finer-Grained Engagement in Hypergraphs**                
 	Qi Luo, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
-	International Conference on Data Engineering (ICDE), 2023 (CCF A)   
+	IEEE International Conference on Data Engineering (ICDE), 2023 (CCF A)   
 
 - **AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**                        
 	Zuowu Zheng, Xiaofeng Gao, Junwei Pan, Qi Luo, Guihai Chen, Dapeng Liu, Jie Jiang            
-	International Conference on Data Engineering (ICDM), 2023 (CCF B)  
+	IEEE International Conference on Data Mining (ICDM), 2023 (CCF B)  
 
 - **EdgeViT: Efficient Visual Modeling for Edge Computing**               
 	Zekai Chen, Fangtian Zhong, Qi Luo, Xiao Zhang, Yanwei Zheng              
@@ -66,7 +66,7 @@ My research interest includes graph mining and analysis.
 
 - **Hypercore Maintenance in Dynamic Hypergraphs**      
 	Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng       
-	International Conference on Data Engineering (ICDE), 2021, 2051-2056  (CCF A)
+	IEEE International Conference on Data Engineering (ICDE), 2021, 2051-2056  (CCF A)
   
 - **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**             
 	Qi Luo, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng     
