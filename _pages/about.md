@@ -50,85 +50,84 @@ My research interest includes graph mining and analysis.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
-## Conference
 
-- **Finer-Grained Engagement in Hypergraphs**                
-	Qi Luo, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
-	IEEE International Conference on Data Engineering (ICDE), 2023 (CCF A)   
-
-- **AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**                        
-	Zuowu Zheng, Xiaofeng Gao, Junwei Pan, Qi Luo, Guihai Chen, Dapeng Liu, Jie Jiang            
-	IEEE International Conference on Data Mining (ICDM), 2023 (CCF B)  
-
-- **EdgeViT: Efficient Visual Modeling for Edge Computing**               
-	Zekai Chen, Fangtian Zhong, Qi Luo, Xiao Zhang, Yanwei Zheng              
-	Wireless Algorithms, Systems, and Applications (WASA), 2022 (CCF C)
-
-- **Hypercore Maintenance in Dynamic Hypergraphs**      
-	Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng       
-	IEEE International Conference on Data Engineering (ICDE), 2021, 2051-2056  (CCF A)
-  
-- **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**             
-	Qi Luo, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng     
-	International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT), 2020, 104-115  (Best Paper Award)
-  
-- **Distributed Core Decomposition in Probabilistic Graphs**         
-	Qi Luo, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng       
-	International Conference on Computational Data and Social Networks (CSoNet), 2019, 16-32 (Best Paper Award)
-
-## Journal
+- **Finer-Grained Engagement in Hypergraphs**         
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
+	International Conference on Data Engineering (ICDE), 2023 (CCF A)   
 
 - **Maximal Clique Search in Weighted Graphs**     
-	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
+	Dongxiao Yu, Lifang Zhang, <font color="#f79646">Qi Luo*</font>, Xiuzhen Cheng, Zhipeng Cai        
 	IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023  (CCF A)
 
-- **Core Decomposition and Maintenance in Bipartite Graphs**     
-	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
-	Tsinghua Science and Technology (TST), 2022, 28 (2), 292-309  (JCR Q2)
-  
-- **Toward Maintenance of Hypercores in Large-Scale Dynamic Hypergraphs**           
-	Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Guanghui Wang, Xiuzhen Cheng      
+- **AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**                    
+	Zuowu Zheng, Xiaofeng Gao, Junwei Pan, <font color="#f79646">Qi Luo</font>, Guihai Chen, Dapeng Liu, Jie Jiang            
+	International Conference on Data Engineering (ICDM), 2023 (CCF B)  
+
+- **EdgeViT: Efficient Visual Modeling for Edge Computing**         
+	Zekai Chen, Fangtian Zhong, <font color="#f79646">Qi Luo</font>, Xiao Zhang, Yanwei Zheng              
+	Wireless Algorithms, Systems, and Applications (WASA), 2022 (CCF C)
+
+- **Toward Maintenance of Hypercores in Large-Scale Dynamic Hypergraphs**        
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Guanghui Wang, Xiuzhen Cheng      
 	The VLDB Journal (VLDBJ), 2022, 1-18  (CCF A)
 
+- **Core Decomposition and Maintenance in Bipartite Graphs**     
+	Dongxiao Yu, Lifang Zhang, <font color="#f79646">Qi Luo*</font>, Xiuzhen Cheng, Zhipeng Cai        
+	Tsinghua Science and Technology (TST), 2022, 28 (2), 292-309  (JCR Q2)
+
 - **A Survey of Structural Representation Learning for Social Networks**       
-	Qi Luo, Dongxiao Yu, AMVV Sai, Zhipeng Cai, Xiuzhen Cheng     
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, AMVV Sai, Zhipeng Cai, Xiuzhen Cheng     
 	Neurocomputing, 2022, 496, 56-71  (JCR Q2, CCF C)
 
-- **Exploring Truss Maintenance in Fully Dynamic Graphs: A Mixed Structure-Based Approach**        
-	Qi Luo, Dongxiao Yu, Xiuzhen Cheng, Hao Sheng, Weifeng Lv      
+- **Exploring Truss Maintenance in Fully Dynamic Graphs: A Mixed Structure-Based Approach**     
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Xiuzhen Cheng, Hao Sheng, Weifeng Lv      
 	IEEE Transactions on Computers (TC), 2022 (CCF A)
 
 - **Stable Structural Clustering in Uncertain Graphs**    
-	Dongxiao Yu, Dongbiao Wang, Qi Luo*, Yanwei Zheng, Guanghui Wang, Zhipeng Cai      
+	Dongxiao Yu, Dongbiao Wang, <font color="#f79646">Qi Luo*</font>, Yanwei Zheng, Guanghui Wang, Zhipeng Cai      
 	Information Sciences, 2022, 586, 596-610 (JCR Q1, CCF B)
 
-- **Public-Private-Core Maintenance in Public-Private-Graphs**   
-	Dongxiao Yu, Xilian Zhang, Qi Luo*, Lifang Zhang, Zhenzhen Xie, Zhipeng Cai       
-	Intelligent and Converged Networks (ICN), 2021, 2 (4), 306-319
-
 - **Network Representation Learning Based on Social Similarities**   
-	Ziwei Mo, Zhenzhen Xie, Xilian Zhang, Qi Luo*, Yanwei Zheng, Dongxiao Yu      
+	Ziwei Mo, Zhenzhen Xie, Xilian Zhang,  <font color="#f79646">Qi Luo</font>, Yanwei Zheng, Dongxiao Yu      
 	Frontiers in Enviromental Science, 2022, 1460
 
-- **Distributed Core Decomposition in Probabilistic Graphs**        
-	Qi Luo, Dongxiao Yu, Feng Li, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu        
+- **Hypercore Maintenance in Dynamic Hypergraphs**      
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng       
+	International Conference on Data Engineering (ICDE), 2021, 2051-2056  (CCF A)
+
+- **Public-Private-Core Maintenance in Public-Private-Graphs**   
+	Dongxiao Yu, Xilian Zhang, <font color="#f79646">Qi Luo*</font>, Lifang Zhang, Zhenzhen Xie, Zhipeng Cai       
+	Intelligent and Converged Networks (ICN), 2021, 2 (4), 306-319
+
+- **Distributed Core Decomposition in Probabilistic Graphs**      
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Feng Li, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu        
 	Asia-Pacific Journal of Operational Research (APJoR), 2021, 38 (05), 2140008
 
-- **Core-GAE: Toward Generation of IoT Networks**          
-	Qi Luo, Dongxiao Yu, Yanwei Zheng, Hao Sheng, Xiuzhen Cheng        
+- **Core-GAE: Toward Generation of IoT Networks**     
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Yanwei Zheng, Hao Sheng, Xiuzhen Cheng        
 	IEEE Internet of Things Journal (IoT), 2021, 9 (12), 9241-9248  (JCR Q1)
 
 - **Fast Core Maintenance in Dynamic Graphs**    
-	Dongxiao Yu, Na Wang, Qi Luo*, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
+	Dongxiao Yu, Na Wang, <font color="#f79646">Qi Luo*</font>, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
 	IEEE Transactions on Computational Social Systems (TCSS), 2021, 9 (3), 710-723 (JCR Q2)
+  
+- **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**         
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng     
+	International Conference on Parallel and Distributed Computing: Applications and Technologies (PDCAT), 2020, 104-115  (Best Paper Award)
 
-- **Batch Processing for Truss Maintenance in Large Dynamic Graphs**          
-	Qi Luo, Dongxiao Yu, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu, Weifeng Lv   
+- **Batch Processing for Truss Maintenance in Large Dynamic Graphs**        
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu, Weifeng Lv   
 	IEEE Transactions on Computational Social Systems (TCSS), 2020, 7 (6), 1435-1446 (JCR Q2)
 
 - **Fast Skyline Community Search in Multi-Valued Networks**    
-	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Jiguo Yu, Zhipeng Cai       
+	Dongxiao Yu, Lifang Zhang, <font color="#f79646">Qi Luo*</font>, Xiuzhen Cheng, Jiguo Yu, Zhipeng Cai       
 	Big Data Mining and Analytics, 2020, 3 (3), 171-180 (CCF T2)
+
+- **Distributed Core Decomposition in Probabilistic Graphs**         
+	<font color="#f79646">Qi Luo</font>, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng       
+	International Conference on Computational Data and Social Networks (CSoNet), 2019, 16-32 (Best Paper Award)
+
+
 
 
 
