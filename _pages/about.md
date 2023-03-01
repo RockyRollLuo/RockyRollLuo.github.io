@@ -61,7 +61,7 @@ My research interest includes graph mining and analysis.
 
 - **AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**                    
 	Zuowu Zheng, Xiaofeng Gao, Junwei Pan, Qi Luo, Guihai Chen, Dapeng Liu, Jie Jiang            
-	International Conference on Data Engineering (ICDM), 2023 (CCF B)  
+	International Conference on Data Engineering (ICDM), 2022 (CCF B)  
 
 - **EdgeViT: Efficient Visual Modeling for Edge Computing**         
 	Zekai Chen, Fangtian Zhong, Qi Luo, Xiao Zhang, Yanwei Zheng              
