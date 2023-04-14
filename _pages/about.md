@@ -56,7 +56,7 @@ My research interest includes graph mining and analysis.
 	IEEE International Conference on Data Engineering (ICDE), 2023 (CCF A)   
 
 - **Maximal Clique Search in Weighted Graphs**     
-	Dongxiao Yu, Lifang Zhang, Qi Luo, Xiuzhen Cheng, Zhipeng Cai        
+	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
 	IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023  (CCF A)
 
 - **AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**                    
@@ -72,7 +72,7 @@ My research interest includes graph mining and analysis.
 	The VLDB Journal (VLDBJ), 2022, 1-18  (CCF A)
 
 - **Core Decomposition and Maintenance in Bipartite Graphs**     
-	Dongxiao Yu, Lifang Zhang, Qi Luo, Xiuzhen Cheng, Zhipeng Cai        
+	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
 	Tsinghua Science and Technology (TST), 2022, 28 (2), 292-309  (JCR Q2)
 
 - **A Survey of Structural Representation Learning for Social Networks**       
@@ -84,7 +84,7 @@ My research interest includes graph mining and analysis.
 	IEEE Transactions on Computers (TC), 2022 (CCF A)
 
 - **Stable Structural Clustering in Uncertain Graphs**    
-	Dongxiao Yu, Dongbiao Wang, Qi Luo, Yanwei Zheng, Guanghui Wang, Zhipeng Cai      
+	Dongxiao Yu, Dongbiao Wang, Qi Luo*, Yanwei Zheng, Guanghui Wang, Zhipeng Cai      
 	Information Sciences, 2022, 586, 596-610 (JCR Q1, CCF B)
 
 - **Network Representation Learning Based on Social Similarities**   
@@ -96,7 +96,7 @@ My research interest includes graph mining and analysis.
 	International Conference on Data Engineering (ICDE), 2021, 2051-2056  (CCF A)
 
 - **Public-Private-Core Maintenance in Public-Private-Graphs**   
-	Dongxiao Yu, Xilian Zhang, Qi Luo, Lifang Zhang, Zhenzhen Xie, Zhipeng Cai       
+	Dongxiao Yu, Xilian Zhang, Qi Luo*, Lifang Zhang, Zhenzhen Xie, Zhipeng Cai       
 	Intelligent and Converged Networks (ICN), 2021, 2 (4), 306-319
 
 - **Distributed Core Decomposition in Probabilistic Graphs**      
@@ -108,7 +108,7 @@ My research interest includes graph mining and analysis.
 	IEEE Internet of Things Journal (IoT), 2021, 9 (12), 9241-9248  (JCR Q1)
 
 - **Fast Core Maintenance in Dynamic Graphs**    
-	Dongxiao Yu, Na Wang, Qi Luo, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
+	Dongxiao Yu, Na Wang, Qi Luo*, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
 	IEEE Transactions on Computational Social Systems (TCSS), 2021, 9 (3), 710-723 (JCR Q2)
   
 - **Distributed Algorithm for Truss Maintenance in Dynamic Graphs**         
@@ -120,7 +120,7 @@ My research interest includes graph mining and analysis.
 	IEEE Transactions on Computational Social Systems (TCSS), 2020, 7 (6), 1435-1446 (JCR Q2)
 
 - **Fast Skyline Community Search in Multi-Valued Networks**    
-	Dongxiao Yu, Lifang Zhang, Qi Luo, Xiuzhen Cheng, Jiguo Yu, Zhipeng Cai       
+	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Jiguo Yu, Zhipeng Cai       
 	Big Data Mining and Analytics, 2020, 3 (3), 171-180 (CCF T2)
 
 - **Distributed Core Decomposition in Probabilistic Graphs**         
