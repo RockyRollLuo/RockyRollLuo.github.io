@@ -54,6 +54,10 @@ My research interest includes graph mining and analysis.
 - **Finer-Grained Engagement in Hypergraphs**         
 	Qi Luo, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
 	IEEE International Conference on Data Engineering (ICDE), 2023 (CCF A)   
+	
+- **A Truss-Based Framework for Graph Similarity Computation**         
+	Yanwei Zheng, Zichuan Zhang, Qi Luo*, Zhenzhen Xie, Dongxiao Yu        
+	Journal of Database Management (JDM), 2023 (CCF C)   
 
 - **Maximal Clique Search in Weighted Graphs**     
 	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
@@ -123,7 +127,7 @@ My research interest includes graph mining and analysis.
 	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Jiguo Yu, Zhipeng Cai       
 	Big Data Mining and Analytics, 2020, 3 (3), 171-180 (CCF T2)
 
-- **Distributed Core Decomposition in Probabilistic Graphs**         
+- **Distributed Core Decomposition in Probabilistic Graphs**(https://link.springer.com/chapter/10.1007/978-3-030-34980-6_2)         
 	Qi Luo, Dongxiao Yu, Feng Li, Zhenhao Dou, Zhipeng Cai, Jiguo Yu, Xiuzhen Cheng       
 	International Conference on Computational Data and Social Networks (CSoNet), 2019, 16-32 (Best Paper Award)
 
