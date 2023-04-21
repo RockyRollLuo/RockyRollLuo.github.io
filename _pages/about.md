@@ -143,7 +143,7 @@ My research interest includes graph mining and analysis.
 <!-- - *2023.4* Best Paper Award of CIDM 2023.   -->
 
 # 📖 Educations
-- *2018.08 - 2022.06*, PhD Degree in Computer Science, Shandong University, Qingdao. 
+- *2018.08 - 2022.06*, Ph.D. in Computer Science, Shandong University, Qingdao. 
 - *2015.08 - 2018.06*, Master Degree in Software Engineer, Shandong University, Jinan. 
 - *2011.08 - 2015.06*, Bachelar Degree in Computer Science, Northestern University at Qinhuangdao, Qinhuangdao. 
 
