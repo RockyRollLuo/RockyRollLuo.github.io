@@ -105,11 +105,11 @@ My research interest includes graph mining and analysis.
 
 - [**Distributed Core Decomposition in Probabilistic Graphs**](https://www.worldscientific.com/doi/10.1142/S021759592140008X)      
 	Qi Luo, Dongxiao Yu, Feng Li, Xiuzhen Cheng, Zhipeng Cai, Jiguo Yu        
-	Asia-Pacific Journal of Operational Research (APJoR), 2021, 38 (05), 2140008
+	Asia-Pacific Journal of Operational Research (APJOR), 2021, 38 (05), 2140008
 
 - [**Core-GAE: Toward Generation of IoT Networks**](https://ieeexplore.ieee.org/document/9446508)     
 	Qi Luo, Dongxiao Yu, Yanwei Zheng, Hao Sheng, Xiuzhen Cheng        
-	IEEE Internet of Things Journal (IoT), 2021, 9 (12), 9241-9248  (JCR Q1)
+	IEEE Internet of Things Journal (IoTJ), 2021, 9 (12), 9241-9248  (JCR Q1)
 
 - [**Fast Core Maintenance in Dynamic Graphs**](https://ieeexplore.ieee.org/document/9382789)    
 	Dongxiao Yu, Na Wang, Qi Luo*, Feng Li, Jiguo Yu, Xiuzhen Cheng, Zhipeng Cai         
