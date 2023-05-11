@@ -55,7 +55,7 @@ My research interest includes graph mining and analysis.
 	Qi Luo, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
 	IEEE International Conference on Data Engineering (ICDE), 2023 (CCF A)   
 	
-- **A Truss-Based Framework for Graph Similarity Computation**         
+- [**A Truss-Based Framework for Graph Similarity Computation**](https://dl.acm.org/doi/abs/10.4018/JDM.322087)         
 	Yanwei Zheng, Zichuan Zhang, Qi Luo*, Zhenzhen Xie, Dongxiao Yu        
 	Journal of Database Management (JDM), 2023 (CCF C)   
 
