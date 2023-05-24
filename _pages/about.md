@@ -61,7 +61,11 @@ My research interest includes graph mining and analysis.
 
 - [**Maximal Clique Search in Weighted Graphs**](https://ieeexplore.ieee.org/abstract/document/10025375)     
 	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
-	IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023  (CCF A)
+	IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023 (CCF A)
+
+- [**Distributed Truss Computation in Dynamic Graphs**](https://ieeexplore.ieee.org/abstract/document/10130042)                    
+	Ziwei Mo, Qi Luo*, Dongxiao Yu, Hao Sheng, Jiguo Yu, Xiuzhen Cheng            
+	Tsinghua Science and Technology (TST), 2023, 28 (5), 973-887 (JCR Q2)  
 
 - [**AutoAttention: Automatic Field Pair Selection for Attention in User Behavior Modeling**](https://ieeexplore.ieee.org/document/10027716)                    
 	Zuowu Zheng, Xiaofeng Gao, Junwei Pan, Qi Luo, Guihai Chen, Dapeng Liu, Jie Jiang            
@@ -73,7 +77,7 @@ My research interest includes graph mining and analysis.
 
 - [**Toward Maintenance of Hypercores in Large-Scale Dynamic Hypergraphs**](https://link.springer.com/article/10.1007/s00778-022-00763-z)        
 	Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Guanghui Wang, Xiuzhen Cheng      
-	The VLDB Journal (VLDBJ), 2022, 1-18  (CCF A)
+	The VLDB Journal (VLDBJ), 2022, 1-18 (CCF A)
 
 - [**Core Decomposition and Maintenance in Bipartite Graphs**](https://ieeexplore.ieee.org/document/9906055)     
 	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
