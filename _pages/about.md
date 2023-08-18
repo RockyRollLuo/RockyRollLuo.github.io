@@ -53,9 +53,9 @@ My research interest includes graph mining and analysis.
 	Qi Luo, Dongxiao Yu, Zhipeng Cai, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
 	World Wide Web, 2023 (CCF B)   
 
-- **Finer-Grained Engagement in Hypergraphs**         
+- [**Finer-Grained Engagement in Hypergraphs**](https://ieeexplore.ieee.org/abstract/document/10184544)         
 	Qi Luo, Dongxiao Yu, Yu Liu, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
-	IEEE International Conference on Data Engineering (ICDE), 2023 (CCF A)   
+	IEEE International Conference on Data Engineering (ICDE), 2023, 423-435 (CCF A)   
 
 - [**Maximal Clique Search in Weighted Graphs**](https://ieeexplore.ieee.org/abstract/document/10025375)     
 	Dongxiao Yu, Lifang Zhang, Qi Luo*, Xiuzhen Cheng, Zhipeng Cai        
@@ -99,7 +99,7 @@ My research interest includes graph mining and analysis.
 
 - [**Network Representation Learning Based on Social Similarities**](https://www.frontiersin.org/articles/10.3389/fenvs.2022.974246/full)   
 	Ziwei Mo, Zhenzhen Xie, Xilian Zhang,  Qi Luo, Yanwei Zheng, Dongxiao Yu      
-	Frontiers in Enviromental Science, 2022, 1460.
+	Frontiers in Environmental Science, 2022, 1460.
 
 - [**Hypercore Maintenance in Dynamic Hypergraphs**](https://ieeexplore.ieee.org/document/9458645)      
 	Qi Luo, Dongxiao Yu, Zhipeng Cai, Xuemin Lin, Xiuzhen Cheng       
