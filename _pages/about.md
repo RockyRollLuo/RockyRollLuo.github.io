@@ -49,7 +49,7 @@ My research interest includes graph mining and analysis.
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-- **Core Maintenance for Hypergraph Streams**         
+- [**Core Maintenance for Hypergraph Streams**](https://link.springer.com/article/10.1007/s11280-023-01196-6)         
 	Qi Luo, Dongxiao Yu, Zhipeng Cai, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
 	World Wide Web, 2023 (CCF B)   
 
