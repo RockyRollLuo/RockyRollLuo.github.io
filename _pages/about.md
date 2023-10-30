@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral research fellow at at Data and Knowledge Research Group, The University of New South Wales, supervised by Prof. Wenjie Zhang. Before joining UNSW, I was a researcher at The Laboratory for AI-Powered Financial Technologies Limited (AIFT), supervised by Prof. Xiaohua Jia. I obtained my Ph.D. degree in Computer Science from Shandong University in Jun 2022, advised by Prof. Xiuzhen Cheng and Prof. Dongxiao Yu. 
+I am currently a postdoctoral research fellow at at [Data and Knowledge Research Group (DKR)](https://unswdb.github.io/), [The University of New South Wales](https://www.unsw.edu.au/), supervised by [Prof. Wenjie Zhang](https://scholar.google.com.au/citations?user=yHTJo1kAAAAJ&hl=en). Before joining DKR, I was a researcher at [The Laboratory for AI-Powered Financial Technologies Limited](https://hkaift.com/), supervised by [Prof. Xiaohua Jia](https://scholar.google.com.hk/citations?user=L5iEhq0AAAAJ&hl=zh-CN). I obtained my Ph.D. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/) in Jun 2022, advised by [Prof. Xiuzhen Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1yGhH0AAAAJ) and [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=hiQxuHYAAAAJ). 
 
 My research interest includes graph mining and analysis.
 
