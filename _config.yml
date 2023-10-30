@@ -3,7 +3,7 @@
 
 # Site Settings
 title                    : "Qi Luo"
-description              : "Researcher in HKAIFT. Focusing on graph mining and analysis."
+description              :
 repository               : "rockyrollluo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -19,7 +19,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qi Luo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Everything is connected!"
+  bio              : 
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
