@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Qi Luo is a researcher in HKAIFT. 
-<!-- and a postdoc of City University of Hongkong -->
+I am currently a postdoctoral research fellow at at Data and Knowledge Research Group, The University of New South Wales, supervised by Prof. Wenjie Zhang. Before joining UNSW, I was a researcher at The Laboratory for AI-Powered Financial Technologies Limited (AIFT), supervised by Prof. Xiaohua Jia. I obtained my Ph.D. degree in Computer Science from Shandong University in Jun 2022, advised by Prof. Xiuzhen Cheng and Prof. Dongxiao Yu. 
 
 My research interest includes graph mining and analysis.
 
@@ -149,9 +148,9 @@ My research interest includes graph mining and analysis.
 <!-- - *2023.4* Best Paper Award of CIDM 2023.   -->
 
 # 📖 Educations
-- *2018.08 - 2022.06*, Ph.D. in Computer Science, Shandong University, Qingdao. 
-- *2015.08 - 2018.06*, Master Degree in Software Engineer, Shandong University, Jinan. 
-- *2011.08 - 2015.06*, Bachelar Degree in Computer Science, Northestern University at Qinhuangdao, Qinhuangdao. 
+- *2018.08 - 2022.06*, Ph.D. degree in Computer Science, Shandong University, Qingdao. 
+- *2015.08 - 2018.06*, Master degree in Software Engineer, Shandong University, Jinan. 
+- *2011.08 - 2015.06*, Bachelar degree in Computer Science, Northestern University at Qinhuangdao, Qinhuangdao. 
 
 # 💬 Invited Talks
 - *2023.02*, Cohesive Subgraph Mining and Applications in Large-Scale Hypergraphs, Shandong University School of Computer and Technology Aoshan Frontier Forum. 
