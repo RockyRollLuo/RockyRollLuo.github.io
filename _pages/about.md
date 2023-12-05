@@ -139,12 +139,12 @@ My research interest includes graph mining and analysis.
 
 
 
-# 🎖 Honors and Awards
+ # 🎖 Honors and Awards
 - *2019.12* Best Paper Award of CSoNet 2019. 
 - *2020.12* Best Paper Award of PDCAT 2020.
-- *2022.8* ACM Qingdao Doctoral Dissertation Award. 
-- *2022.6* Outstanding Graduates of Shandong Province. 
-- *2022.6* Outstanding Graduates of Shandong University. 
+<!-- - *2022.8* ACM Qingdao Doctoral Dissertation Award. -->
+<!-- - *2022.6* Outstanding Graduates of Shandong Province. -->
+<!-- - *2022.6* Outstanding Graduates of Shandong University. -->
 <!-- - *2023.4* Best Paper Award of CIDM 2023.   -->
 
 # 📖 Educations
