@@ -61,7 +61,7 @@ My research interest includes graph mining and analysis.
 	IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023 (CCF A)
 	
 - [**A Truss-Based Framework for Graph Similarity Computation**](https://dl.acm.org/doi/abs/10.4018/JDM.322087)         
-	Yanwei Zheng, Zichuan Zhang, Qi Luo*, Zhenzhen Xie, Dongxiao Yu        
+	Yanwei Zheng, Zichun Zhang, Qi Luo*, Zhenzhen Xie, Dongxiao Yu        
 	Journal of Database Management (JDM), 2023, 34(1): 1-18. (CCF C)  
 
 - [**Distributed Truss Computation in Dynamic Graphs**](https://ieeexplore.ieee.org/abstract/document/10130042)                    
