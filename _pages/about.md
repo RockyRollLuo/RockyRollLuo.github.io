@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a postdoctoral research fellow at at [Data and Knowledge Research Group (DKR)](https://unswdb.github.io/), [The University of New South Wales](https://www.unsw.edu.au/), supervised by [Prof. Wenjie Zhang](https://scholar.google.com.au/citations?user=yHTJo1kAAAAJ&hl=en). Before joining DKR, I was a researcher at [The Laboratory for AI-Powered Financial Technologies Limited](https://hkaift.com/), supervised by [Prof. Xiaohua Jia](https://scholar.google.com.hk/citations?user=L5iEhq0AAAAJ&hl=zh-CN). I obtained my Ph.D. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/) in Jun 2022, advised by [Prof. Xiuzhen Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1yGhH0AAAAJ) and [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=hiQxuHYAAAAJ). 
+I am currently a postdoctoral research fellow at at [Data and Knowledge Research Group (DKR)](https://unswdb.github.io/), [The University of New South Wales](https://www.unsw.edu.au/), supervised by [Prof. Wenjie Zhang](https://scholar.google.com.au/citations?user=yHTJo1kAAAAJ&hl=en). Before joining DKR, I was a researcher at [The Laboratory for AI-Powered Financial Technologies Limited](https://hkaift.com/), supervised by [Prof. Xiaohua Jia](https://scholar.google.com.hk/citations?user=L5iEhq0AAAAJ&hl=zh-CN). I obtained my Ph.D. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/), advised by [Prof. Xiuzhen Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1yGhH0AAAAJ) and [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=hiQxuHYAAAAJ). 
 
 My research interest includes graph mining and analysis.
 
@@ -147,10 +147,10 @@ My research interest includes graph mining and analysis.
 <!-- - *2022.6* Outstanding Graduates of Shandong University. -->
 <!-- - *2023.4* Best Paper Award of CIDM 2023.   -->
 
-# 📖 Educations
-- *2018.08 - 2022.06*, Ph.D. degree in Computer Science, Shandong University, Qingdao. 
-- *2015.08 - 2018.06*, Master degree in Software Engineer, Shandong University, Jinan. 
-- *2011.08 - 2015.06*, Bachelar degree in Computer Science, Northestern University at Qinhuangdao, Qinhuangdao. 
+<!-- - # 📖 Educations
+ - *2018.08 - 2022.06*, Ph.D. degree in Computer Science, Shandong University, Qingdao. 
+ - *2015.08 - 2018.06*, Master degree in Software Engineer, Shandong University, Jinan. 
+ - *2011.08 - 2015.06*, Bachelar degree in Computer Science, Northestern University at Qinhuangdao, Qinhuangdao. 
 
 # 💬 Invited Talks
 - *2023.02*, Cohesive Subgraph Mining and Applications in Large-Scale Hypergraphs, Shandong University School of Computer and Technology Aoshan Frontier Forum. 
