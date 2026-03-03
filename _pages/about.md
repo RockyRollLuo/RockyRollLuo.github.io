@@ -30,8 +30,7 @@ My research focuses on the **mining and analysis of graph data**, spanning metho
 - Graph Security, Privacy, and Trustworthy AI  
 - Graph-based Agents and LLM-Augmented Graph Systems  
 
-# Open Positions
-We are actively recruiting highly motivated **Ph.D. and M.S. students** to join our research group.
+**Open Positions**: We are actively recruiting highly motivated **Ph.D. and M.S. students** to join our research group.
 
 
 <!-- I obtained my Ph.D. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/), advised by [Prof. Xiuzhen Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1yGhH0AAAAJ) and [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=hiQxuHYAAAAJ). -->
@@ -68,6 +67,42 @@ My research interests lie in graph data mining and analysis.
 
 
 
+- **Efficient Traversal for Core Maintenance in Large-Scale Dynamic Hypergraphs**  
+  Yu Liu, Qi Luo, Yanwei Zheng, Zhipeng Cai, Dongxiao Yu  
+  *World Wide Web*, 2025
+
+- **Hypergraph Unlearning: A Size-Based Hyperedge Selection and Coverage Aggregation Approach**  
+  Jiaquan Liang, Zhiyu Chen, Qi Luo, Zhenzhen Xie, Gang Liu, Zhipeng Cai  
+  *IEEE Transactions on Information Forensics and Security*, 2025
+
+- **HAS: Hypergraph Adaptive Sampling for Structural Characteristics Preservation**  
+  Jiaqi Zhang, Jianwei Guo, Qi Luo, Zhenzhen Xie, Gang Liu, Zhipeng Cai  
+  *IEEE Transactions on Computational Social Systems*, 2025
+
+- **Efficient Indexing and Searching of Constrained Core in Hypergraphs**  
+  Qi Luo, Wenjie Zhang, Zhengyi Yang, Dongxiao Yu, Xuemin Lin, Liping Wang  
+  *The VLDB Journal*, 2025
+
+- **Effective and Efficient Community Search over Large-Scale Hypergraphs**  
+  Yu Liu, Qi Luo, Yanwei Zheng, Wenjie Zhang, Xuemin Lin, Dongxiao Yu  
+  *EDBT*, 2025
+
+- **Hierarchical Structure Construction on Hypergraphs**  
+  Qi Luo, Wenjie Zhang, Zhengyi Yang, Dong Wen, Xiaoyang Wang, Dongxiao Yu, Xuemin Lin  
+  *Proceedings of the 33rd ACM International Conference on Information and Knowledge Management*, 2024
+
+
+- **Reordering and Compression for Hypergraph Processing**  
+  Yu Liu, Qi Luo, Mengbai Xiao, Dongxiao Yu, Huashan Chen, Xiuzhen Cheng  
+  *IEEE Transactions on Computers*, 2024
+
+- **Sampling Hypergraphs via Joint Unbiased Random Walk**  
+  Qi Luo, Zhenzhen Xie, Yu Liu, Dongxiao Yu, Xiuzhen Cheng, Xuemin Lin, Xiaohua Jia  
+  *World Wide Web*, 2024
+
+- **Influence Blocking Maximization under Refutation**  
+  Qi Luo, Dongxiao Yu, Dongbiao Wang, Yafei Zhang, Yanwei Zheng, Zhipeng Cai  
+  *Social Network Analysis and Mining*, 2023
 
 
 - [**Core Maintenance for Hypergraph Streams**](https://link.springer.com/article/10.1007/s11280-023-01196-6)         
