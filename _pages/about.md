@@ -35,8 +35,6 @@ My research focuses on the **mining and analysis of graph data**, spanning metho
 
 <!-- I obtained my Ph.D. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/), advised by [Prof. Xiuzhen Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1yGhH0AAAAJ) and [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=hiQxuHYAAAAJ). -->
 
-My research interests lie in graph data mining and analysis.
-
 <!-- <a href='https://scholar.google.com/citations?user=glQeJ0sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
 
