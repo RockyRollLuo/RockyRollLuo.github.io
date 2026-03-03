@@ -20,9 +20,23 @@ redirect_from:
 <!--I am currently a postdoctoral research fellow at at [Data and Knowledge Research Group (DKR)](https://unswdb.github.io/), [The University of New South Wales](https://www.unsw.edu.au/), supervised by [Prof. Wenjie Zhang](https://scholar.google.com.au/citations?user=yHTJo1kAAAAJ&hl=en). Before joining DKR, I was a researcher at [The Laboratory for AI-Powered Financial Technologies Limited](https://hkaift.com/), supervised by [Prof. Xiaohua Jia](https://scholar.google.com.hk/citations?user=L5iEhq0AAAAJ&hl=zh-CN). 
 -->
 
-I obtained my Ph.D. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/), advised by [Prof. Xiuzhen Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1yGhH0AAAAJ) and [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=hiQxuHYAAAAJ). 
+I am a Professor in the School of Computer Science and Technology at Shandong University. I received my Ph.D. and M.S. in Computer Science and Technology from Shandong University, and my B.S. from Northeastern University. Prior to joining Shandong University, I was a Postdoctoral Researcher at the Hong Kong University of Science and Technology and the University of New South Wales. I also worked as a Researcher at AI-Powered Financial Technologies Ltd.
 
-My research interest includes graph mining and analysis.
+My research focuses on the **mining and analysis of graph data**, spanning methodologies from classical graph theory to cutting-edge AI techniques. My work spans:
+
+- Graph Data Mining and Graph Analysis  
+- Graph Databases and Query Optimization  
+- Graph Reasoning and Graph Foundation Models  
+- Graph Security, Privacy, and Trustworthy AI  
+- Graph-based Agents and LLM-Augmented Graph Systems  
+
+# Open Positions
+We are actively recruiting highly motivated **Ph.D. and M.S. students** to join our research group.
+
+
+<!-- I obtained my Ph.D. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/), advised by [Prof. Xiuzhen Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1yGhH0AAAAJ) and [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=hiQxuHYAAAAJ). -->
+
+My research interests lie in graph data mining and analysis.
 
 <!-- <a href='https://scholar.google.com/citations?user=glQeJ0sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>. -->
 
@@ -50,6 +64,11 @@ My research interest includes graph mining and analysis.
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+
+
+
+
 
 - [**Core Maintenance for Hypergraph Streams**](https://link.springer.com/article/10.1007/s11280-023-01196-6)         
 	Qi Luo, Dongxiao Yu, Zhipeng Cai, Yanwei Zheng, Xiuzhen Cheng, Xuemin Lin        
