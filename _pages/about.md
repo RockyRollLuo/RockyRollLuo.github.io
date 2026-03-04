@@ -59,7 +59,7 @@ My research focuses on the **mining and analysis of graph data**, spanning metho
 </div> -->
 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
