@@ -31,6 +31,7 @@ My research focuses on the **mining and analysis of graph data**, spanning metho
 - Graph-based Agents and LLM-Augmented Graph Systems  
 
 **Open Positions**: We are actively recruiting highly motivated **Ph.D. and M.S. students** to join our research group.
+
 📧 **Contact:** qiluo@sdu.edu.cn  
 
 
