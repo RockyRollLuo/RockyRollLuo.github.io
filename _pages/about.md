@@ -31,6 +31,7 @@ My research focuses on the **mining and analysis of graph data**, spanning metho
 - Graph-based Agents and LLM-Augmented Graph Systems  
 
 **Open Positions**: We are actively recruiting highly motivated **Ph.D. and M.S. students** to join our research group.
+📧 **Contact:** qiluo@sdu.edu.cn  
 
 
 <!-- I obtained my Ph.D. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/), advised by [Prof. Xiuzhen Cheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=O1yGhH0AAAAJ) and [Prof. Dongxiao Yu](https://scholar.google.com.hk/citations?hl=zh-CN&user=hiQxuHYAAAAJ). -->
